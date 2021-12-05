@@ -16,7 +16,15 @@
 1+1
  <br>2
    
+  <h2>Here is the list: </h2>
+<ul>
+  <li>List 1</li>
+  <li>List 2</li>
+  <li>List 3</li>
+</ul> 
    
+  
+  
 <table>
    <tr>
       <th>Name</th>
