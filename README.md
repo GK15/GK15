@@ -9,13 +9,12 @@
 <body>
 <p><h1>My Jupyter Notebook on IBM Watson Studio</h1></p>
 <p><b>Golam Kaderye</b></p>
-<p><i>I am interested in data science because it is very helpful to increase analytic skill on various area in IT and to get a good job</i></p>
+<p><i>I am interested in data science because to get a good job</i></p>
   
    <p><b>The next code is supposed to: </b></p>
    
- x = 5
-y = 10
-print(x + y)
+1+1
+ 2
    
    
 <table>
