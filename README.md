@@ -14,7 +14,7 @@
    <p><b>The next code is supposed to: </b></p>
    
 1+1
- 2
+ <br>2
    
    
 <table>
