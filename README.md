@@ -16,14 +16,17 @@
 1+1
  <br>2
    
-  <h2>Here is the list: </h2>
-<ul>
-  <li>List 1</li>
-  <li>List 2</li>
-  <li>List 3</li>
-</ul> 
+  <p>Here is the list: </p>
+  <ul>
+    <li>List 1</li>
+    <li>List 2</li>
+    <li>List 3</li>
+  </ul> 
    
-  
+  <p>(</p>
+<p><b>"name"</b>: "Golam Kaderye", </p>
+<p><b>"title"</b>: "My Jupyter Notebook on IBM Watson Studio" </p>
+  <p>)</p>
   
 <table>
    <tr>
